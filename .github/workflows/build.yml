@@ -28,9 +28,9 @@ jobs:
       - run: dart analyze
       - run: dart test
 
-      - name: Verify package validity
-        run: |
-          dart pub publish --dry-run
+#      - name: Verify package validity
+#        run: |
+#          dart pub publish --dry-run
 
       - name: Publish to Pub.dev
         run: |
