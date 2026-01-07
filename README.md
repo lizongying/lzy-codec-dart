@@ -5,7 +5,7 @@ dart實現。
 
 [github](https://github.com/lizongying/lzy-codec-dart)
 
-[pub](https://pub.dev/packages/lzy-codec)
+[pub](https://pub.dev/packages/lzy_codec)
 
 更多cli工具請參考 [go](https://github.com/lizongying/lzy-codec-go)
 

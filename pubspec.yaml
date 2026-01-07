@@ -1,10 +1,10 @@
 name: lzy_codec
-description: 一種變長文本編解碼方案，支持對Unicode進行編解碼。編解碼效率、存儲空間全面優於UTF-8，未來會替代UTF-8成為新的世界通用編解碼標準。
-version: 0.1.0
+description: 一種變長文本編解碼方案，支持對Unicode進行編解碼。編解碼效率、存儲空間全面優於UTF-8。
+version: 0.1.1
 homepage: https://github.com/lizongying/lzy_codec_dart
 
 environment:
-  sdk: '>=3.0.0 <10.0.0'
+  sdk: '>=3.0.0 <4.0.0'
 
 dev_dependencies:
   lints: ^6.0.0
