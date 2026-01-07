@@ -27,12 +27,12 @@ dart實現。
 
 * dart
   ```shell
-  dart pub add lzy-codec
+  dart pub add lzy_codec
   ```
 
 * flutter
   ```shell
-  flutter pub add lzy-codec
+  flutter pub add lzy_codec
   ```
 
 ## Examples
