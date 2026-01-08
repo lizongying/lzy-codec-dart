@@ -18,9 +18,9 @@ dart實現。
 * [dotnet](https://github.com/lizongying/lzy-codec-dotnet)
 * [rust](https://github.com/lizongying/lzy-codec-rs)
 * [python](https://github.com/lizongying/lzy-codec-py)
-* [kt](https://github.com/lizongying/lzy-codec-kt)
+* [kotlin](https://github.com/lizongying/lzy-codec-kt)
 * [swift](https://github.com/lizongying/lzy-codec-swift)
-* [ruby](https://github.com/lizongying/lzy-codec-ruby)
+* [ruby](https://github.com/lizongying/lzy-codec-rb)
 * [wasm](https://github.com/lizongying/lzy-codec-wasm)
 
 ## Install
